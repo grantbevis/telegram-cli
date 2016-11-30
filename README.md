@@ -1,4 +1,4 @@
-# whatmp3
+# telegram-cli
 A teeny tiny Alpine container with [telegram-cli](https://github.com/vysheng/tg)
 
 #### Example Run Command
